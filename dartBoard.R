@@ -1,6 +1,7 @@
 library(raster)
 library(tidyverse)
 
+# set seed to make simulation results reproducible
 set.seed(2001)
 
 # function for throwing our darts, plotting the results
